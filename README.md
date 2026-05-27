@@ -6,4 +6,4 @@ Trying to keep Earth — and human civilization — alive long enough to go inte
 
 Occasionally hand-kneads artisanal code at the night market. Tips welcome.
 
-**[incoming-observatory](https://github.com/singer0503/incoming-observatory)** 一個開源的「來襲天體預警 + 偵測盲區」太空態勢地圖。用 NASA / MPC / ESA 的公開資料
+**[incoming-observatory]([https://github.com/singer0503/incoming-observatory](https://singer0503.github.io/incoming-observatory/index.html))** 一個開源的「來襲天體預警 + 偵測盲區」太空態勢地圖。用 NASA / MPC / ESA 的公開資料
